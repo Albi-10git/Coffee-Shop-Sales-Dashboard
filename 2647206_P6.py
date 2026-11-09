@@ -14,7 +14,7 @@ st.title("☕ Coffee Shop Sales Analysis Dashboard")
 st.write("Explore coffee shop transactions, products and sales trends.")
 
 # 2. LOAD DATASET
-DATA_FILE = Path(__file__).parent / "coffee-shop-sales-revenue-100.csv"
+DATA_FILE = Path(__file__).parent / "coffee-shop-sales-revenue.csv"
 
 @st.cache_data
 def load_data():
