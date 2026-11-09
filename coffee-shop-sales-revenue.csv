@@ -1,0 +1,101 @@
+transaction_id,transaction_date,transaction_time,transaction_qty,store_id,store_location,product_id,unit_price,product_category,product_type,product_detail
+379,2023-01-01,16:17:06,2,3,Astoria,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm
+3825,2023-01-07,19:38:50,1,8,Hell's Kitchen,77,3.0,Bakery,Scone,Oatmeal Scone
+4474,2023-01-09,07:52:18,1,5,Lower Manhattan,13,8.95,Loose Tea,Black tea,English Breakfast
+4822,2023-01-09,13:12:25,1,5,Lower Manhattan,74,4.38,Bakery,Biscotti,Ginger Biscotti
+6441,2023-01-12,11:29:42,1,5,Lower Manhattan,72,3.25,Bakery,Scone,Ginger Scone
+7385,2023-01-14,08:33:50,2,8,Hell's Kitchen,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm
+8723,2023-01-16,08:59:17,1,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+11592,2023-01-21,08:42:56,2,5,Lower Manhattan,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+12110,2023-01-22,07:17:16,2,3,Astoria,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+12563,2023-01-23,06:54:59,1,8,Hell's Kitchen,39,4.25,Coffee,Barista Espresso,Latte Rg
+13052,2023-01-23,17:29:29,2,3,Astoria,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+14715,2023-01-26,14:16:26,1,5,Lower Manhattan,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+17878,2023-02-01,19:34:12,1,3,Astoria,70,3.25,Bakery,Scone,Cranberry Scone
+19546,2023-02-04,17:56:04,1,3,Astoria,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+20028,2023-02-05,16:41:34,1,5,Lower Manhattan,45,3.0,Tea,Brewed herbal tea,Peppermint Lg
+22381,2023-02-09,20:08:30,1,5,Lower Manhattan,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+25302,2023-02-14,17:09:09,2,3,Astoria,40,3.75,Coffee,Barista Espresso,Cappuccino
+27954,2023-02-19,08:25:31,1,8,Hell's Kitchen,27,3.5,Coffee,Organic brewed coffee,Brazilian Lg
+28711,2023-02-20,09:44:30,1,8,Hell's Kitchen,1,18.0,Coffee beans,Organic Beans,Brazilian - Organic
+29177,2023-02-21,08:42:46,1,8,Hell's Kitchen,87,3.0,Coffee,Barista Espresso,Ouro Brasileiro shot
+29542,2023-02-21,15:40:56,3,5,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte
+29594,2023-02-21,17:58:39,1,8,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg
+30543,2023-02-23,12:02:44,1,3,Astoria,44,2.5,Tea,Brewed herbal tea,Peppermint Rg
+34297,2023-03-01,17:58:46,2,5,Lower Manhattan,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+34609,2023-03-02,12:44:16,2,3,Astoria,40,3.75,Coffee,Barista Espresso,Cappuccino
+34808,2023-03-02,15:40:55,2,8,Hell's Kitchen,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+39300,2023-03-09,09:14:06,2,8,Hell's Kitchen,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg
+40679,2023-03-11,07:53:40,2,8,Hell's Kitchen,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+41125,2023-03-11,16:08:29,1,5,Lower Manhattan,49,3.0,Tea,Brewed Black tea,English Breakfast Lg
+44098,2023-03-16,07:05:58,1,5,Lower Manhattan,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg
+47635,2023-03-20,17:52:00,2,8,Hell's Kitchen,55,4.0,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+47856,2023-03-21,09:01:36,2,3,Astoria,30,3.0,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+49353,2023-03-23,11:12:07,1,5,Lower Manhattan,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+50208,2023-03-24,14:20:26,1,5,Lower Manhattan,78,4.5,Bakery,Scone,Scottish Cream Scone 
+54295,2023-03-30,16:32:05,2,5,Lower Manhattan,64,0.8,Flavours,Regular syrup,Hazelnut syrup
+55320,2023-04-01,12:52:27,2,3,Astoria,35,3.1,Coffee,Premium brewed coffee,Jamaican Coffee River Rg
+55345,2023-04-01,13:04:22,1,3,Astoria,71,3.75,Bakery,Pastry,Chocolate Croissant
+56401,2023-04-02,16:35:22,1,3,Astoria,31,2.2,Coffee,Gourmet brewed coffee,Ethiopia Sm
+56407,2023-04-02,16:37:26,2,5,Lower Manhattan,52,2.5,Tea,Brewed Chai tea,Traditional Blend Chai Rg
+57300,2023-04-03,17:28:50,2,8,Hell's Kitchen,37,3.0,Coffee,Barista Espresso,Espresso shot
+57421,2023-04-03,19:19:16,1,3,Astoria,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg
+57612,2023-04-04,11:06:08,2,3,Astoria,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg
+61582,2023-04-09,07:08:31,2,8,Hell's Kitchen,63,0.8,Flavours,Regular syrup,Carmel syrup
+63172,2023-04-10,15:36:09,1,8,Hell's Kitchen,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+63507,2023-04-11,08:25:39,2,8,Hell's Kitchen,24,3.0,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+65211,2023-04-13,08:33:00,2,5,Lower Manhattan,48,2.5,Tea,Brewed Black tea,English Breakfast Rg
+66361,2023-04-14,10:33:18,1,5,Lower Manhattan,47,3.0,Tea,Brewed Green tea,Serenity Green Tea Lg
+67407,2023-04-15,13:46:46,2,8,Hell's Kitchen,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+70124,2023-04-18,14:45:22,2,3,Astoria,25,2.2,Coffee,Organic brewed coffee,Brazilian Sm
+71374,2023-04-20,08:28:20,1,3,Astoria,2,18.0,Coffee beans,House blend Beans,Our Old Time Diner Blend
+71512,2023-04-20,09:18:47,2,5,Lower Manhattan,65,0.8,Flavours,Sugar free syrup,Sugar Free Vanilla syrup
+74379,2023-04-23,15:52:56,2,5,Lower Manhattan,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg
+77092,2023-04-26,17:08:31,2,5,Lower Manhattan,51,3.0,Tea,Brewed Black tea,Earl Grey Lg
+78186,2023-04-28,07:05:35,2,5,Lower Manhattan,25,2.2,Coffee,Organic brewed coffee,Brazilian Sm
+78579,2023-04-28,14:05:01,1,8,Hell's Kitchen,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+78693,2023-04-28,15:41:57,1,8,Hell's Kitchen,31,2.2,Coffee,Gourmet brewed coffee,Ethiopia Sm
+79869,2023-04-30,09:05:28,1,3,Astoria,39,4.25,Coffee,Barista Espresso,Latte Rg
+80925,2023-05-01,14:05:07,1,8,Hell's Kitchen,73,3.75,Bakery,Pastry,Almond Croissant
+80942,2023-05-01,14:15:54,1,3,Astoria,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+83916,2023-05-04,12:37:20,1,5,Lower Manhattan,48,2.5,Tea,Brewed Black tea,English Breakfast Rg
+84026,2023-05-04,13:45:56,1,5,Lower Manhattan,46,2.5,Tea,Brewed Green tea,Serenity Green Tea Rg
+87209,2023-05-07,10:41:10,1,5,Lower Manhattan,73,3.75,Bakery,Pastry,Almond Croissant
+89368,2023-05-09,09:55:38,1,8,Hell's Kitchen,44,2.5,Tea,Brewed herbal tea,Peppermint Rg
+94967,2023-05-14,10:17:26,2,8,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte
+95501,2023-05-15,06:14:41,2,5,Lower Manhattan,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg
+95537,2023-05-15,06:55:11,1,5,Lower Manhattan,65,0.8,Flavours,Sugar free syrup,Sugar Free Vanilla syrup
+96072,2023-05-15,10:20:02,1,3,Astoria,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg
+98437,2023-05-17,10:33:06,2,3,Astoria,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg
+102125,2023-05-20,13:58:51,2,5,Lower Manhattan,46,2.5,Tea,Brewed Green tea,Serenity Green Tea Rg
+105519,2023-05-23,16:56:17,3,5,Lower Manhattan,32,3.0,Coffee,Gourmet brewed coffee,Ethiopia Rg
+105966,2023-05-24,09:02:44,1,8,Hell's Kitchen,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+106994,2023-05-25,08:22:06,2,8,Hell's Kitchen,46,2.5,Tea,Brewed Green tea,Serenity Green Tea Rg
+107060,2023-05-25,08:47:38,3,5,Lower Manhattan,49,3.0,Tea,Brewed Black tea,English Breakfast Lg
+111643,2023-05-29,14:42:16,1,3,Astoria,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg
+112695,2023-05-30,12:35:54,2,3,Astoria,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+116867,2023-06-03,14:04:38,2,5,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte
+117782,2023-06-04,11:55:06,2,5,Lower Manhattan,47,3.0,Tea,Brewed Green tea,Serenity Green Tea Lg
+118869,2023-06-05,11:31:29,1,5,Lower Manhattan,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+119521,2023-06-05,17:41:39,1,5,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone
+120145,2023-06-06,13:22:28,1,3,Astoria,46,2.5,Tea,Brewed Green tea,Serenity Green Tea Rg
+127222,2023-06-12,09:23:04,1,8,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg
+128492,2023-06-13,09:45:41,1,3,Astoria,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+130012,2023-06-14,10:53:53,2,8,Hell's Kitchen,47,3.0,Tea,Brewed Green tea,Serenity Green Tea Lg
+130413,2023-06-14,19:34:19,1,8,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+130916,2023-06-15,09:31:15,2,3,Astoria,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+133694,2023-06-17,10:47:53,2,8,Hell's Kitchen,51,3.0,Tea,Brewed Black tea,Earl Grey Lg
+135984,2023-06-19,09:35:57,2,5,Lower Manhattan,24,3.0,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+136779,2023-06-20,07:30:08,2,5,Lower Manhattan,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+136806,2023-06-20,07:40:45,2,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+136997,2023-06-20,08:38:44,1,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+137260,2023-06-20,09:54:13,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant
+139220,2023-06-22,07:17:55,1,3,Astoria,78,4.5,Bakery,Scone,Scottish Cream Scone 
+140026,2023-06-22,16:07:03,1,3,Astoria,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg
+140912,2023-06-23,12:01:49,2,8,Hell's Kitchen,22,2.0,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+141459,2023-06-24,06:39:04,2,8,Hell's Kitchen,44,2.5,Tea,Brewed herbal tea,Peppermint Rg
+142616,2023-06-24,19:36:17,1,3,Astoria,48,2.5,Tea,Brewed Black tea,English Breakfast Rg
+143820,2023-06-26,06:27:14,1,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+143931,2023-06-26,07:23:55,1,8,Hell's Kitchen,28,2.0,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+144360,2023-06-26,10:35:32,1,3,Astoria,47,3.0,Tea,Brewed Green tea,Serenity Green Tea Lg
+149002,2023-06-30,10:54:04,2,5,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg
